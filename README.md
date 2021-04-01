@@ -1,1 +1,3 @@
-# mi-primer-repositorio-en-equipo
+Trabajo colaborativo
+
+Ruiz Juan Pablo
