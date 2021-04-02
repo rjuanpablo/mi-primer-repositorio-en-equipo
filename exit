@@ -1,0 +1,30 @@
+[33mcommit 290204eab8549142554cff44beae9daae054091a[m[33m ([m[1;36mHEAD -> [m[1;32mprueba-de-formatos[m[33m, [m[1;31morigin/prueba-de-formatos[m[33m)[m
+Author: MONTISORI AGUSTIN <agustinmontisori@outlook.com>
+Date:   Thu Apr 1 20:39:39 2021 -0300
+
+    Agregar-archivos-basicos
+
+[33mcommit 62ff6213533bc614211a1bcc24f2887cd085a5a7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: a113249 c7ec909
+Author: Juan Pablo Ruiz <juanpabloruizbre@gmail.com>
+Date:   Thu Apr 1 20:29:13 2021 -0300
+
+    Merge remote-tracking branch 'origin/main' into main
+
+[33mcommit a11324959208f0d9f14e8ba845b34451b6a81c6f[m
+Author: Juan Pablo Ruiz <juanpabloruizbre@gmail.com>
+Date:   Thu Apr 1 20:21:06 2021 -0300
+
+    Modificar readme2
+
+[33mcommit c7ec9098223cba32d1caffd35e7a82d9999d3856[m
+Author: MONTISORI AGUSTIN <agustinmontisori@outlook.com>
+Date:   Thu Apr 1 20:15:31 2021 -0300
+
+    modificar readme
+
+[33mcommit 44aff14bb1c2a5155c55a15fe0c198a40fc5f008[m
+Author: rjuanpablo <58188157+rjuanpablo@users.noreply.github.com>
+Date:   Thu Apr 1 19:59:35 2021 -0300
+
+    Initial commit
